@@ -5,7 +5,7 @@
 👉 [Acesse o projeto aqui](https://kayferraz.github.io/SemHora--Voluntario/ProjetoSemHora/inicial.html)
 
 ---
-## Criadores
+##  💡  Criadores
 **BEATRIZ BERNARDI MIZUNO**
 
 **EDUARDO AMARCOLLO SILVA** 
