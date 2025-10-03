@@ -26,9 +26,9 @@ Nosso maior objetivo durante a construção foi **promover a acessibilidade**, g
 
 ## 🧩 Funcionalidades
 
-- ✅ **Cadastro e Login** de usuários  
+- ✅ **Cadastro e Login** de usuários (idoso ou voluntário) 
 - ✅ Área de **voluntariado**  
-- ✅ **Suporte** com retorno em até 24h  
+- ✅ **Suporte** 
 - ✅ **Blog** com conteúdos relacionados  
 - ✅ **FAQ** para dúvidas frequentes  
 - ✅ **Contato** direto com a equipe  
