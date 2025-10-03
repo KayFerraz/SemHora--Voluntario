@@ -1,4 +1,4 @@
-# 🌟 SemHora
+# 👵🏻  SemHora
 
 **SemHora** é uma plataforma voltada para conectar **voluntários** a **idosos**, promovendo acolhimento e integração social por meio da solidariedade.  
 
